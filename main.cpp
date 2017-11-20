@@ -108,6 +108,7 @@ int main()
 
     interleave(l1,1,l2,1,l3);
     l3.print();
+    std::cin.get();
     return 0;
 }
 
